@@ -1,0 +1,10 @@
+John F. Kennedy,Democrat,1961,1962,1963
+Lyndon B. Johnson,Democrat,1964,1965,1966,1967,1968
+Richard Nixon,Republican,1969,1970,1971,1972,1973,1974
+Gerald Ford,Republican,1975,1976
+Jimmy Carter,Democrat,1977,1978,1979,1980
+Ronald Reagan,Republican,1981,1982,1983,1984,1985,1986,1987,1988
+George H. W. Bush,Republican,1989,1990,1991,1992
+Bill Clinton,Democrat,1993,1994,1995,1996,1997,1998,1999,2000
+George W. Bush,Republican,2001,2002,2003,2004,2005,2006,2007,2008
+Barack Obama,Democrat,2009,2010,2011,2012
